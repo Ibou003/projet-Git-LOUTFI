@@ -1,6 +1,6 @@
 function hello(){
 	
-	consol.log("Hello loutfi ibou")
+	consol.log("Hello nouveau utilisateur x")
 	
 }
 
